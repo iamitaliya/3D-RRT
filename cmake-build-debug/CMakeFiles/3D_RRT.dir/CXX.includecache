@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/nikhi/CLionProjects/3D-RRT/3D-RRT/main.cpp
+iostream
+-
+cmath
+-
+vector
+-
+algorithm
+-
+random
+-
+fstream
+-
+time.h
+-
+
